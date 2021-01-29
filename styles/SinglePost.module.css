@@ -1,0 +1,30 @@
+.buttonBack {
+  padding: 0.5rem 1rem;
+  color: white;
+  background-color: rebeccapurple;
+  border: 1px solid rebeccapurple;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  margin: 1rem 0;
+}
+
+.buttonBack:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card {
+  border: 1px solid #eaeaea;
+  margin: 0.5rem auto;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.title {
+  font-size: 30px;
+  color: #2f3134;
+}
+
+.body {
+  font-size: 20px;
+  color: rgb(136, 136, 136);
+}
